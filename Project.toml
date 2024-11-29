@@ -1,0 +1,10 @@
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+ElectricFields = "2f84ce32-9bb1-11e8-0d9f-3dce90a4beca"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+StrongFieldApproximation = "8040a08e-eda0-452b-8711-9fe2c017c9f1"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+UnitfulAtomic = "a7773ee8-282e-5fa2-be4e-bd808c38a91a"
